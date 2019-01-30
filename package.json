@@ -1,5 +1,5 @@
 {
-  "name": "@finish/scripts/utils",
+  "name": "@finish/scripts.utils",
   "version": "0.0.1",
   "description": "Helpers and utilities for the Finish Framework Script Components",
   "main": "",
@@ -11,13 +11,13 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Finish-Framework/demo.git"
+    "url": "git+https://github.com/Finish-Framework/scripts-utils.git"
   },
   "keywords": ["scripts", "utilities"],
   "author": "james.johnson@excellentingenuity.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Finish-Framework/demo.git/issues"
+    "url": "https://github.com/Finish-Framework/scripts-utils.git/issues"
   },
-  "homepage": "https://github.com/Finish-Framework/demo.git#readme"
+  "homepage": "https://github.com/Finish-Framework/scripts-utils.git#readme"
 }
